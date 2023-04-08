@@ -1,4 +1,10 @@
-# DoubanGroupCrawler
-对于豆瓣小组的爬虫，可生成关键词云
+# Douban Group Posts Crawler
 
-主要爬虫文件是douCrawler.py，主要使用的包是flask和jieba
+Douban is Chinese version of Reddit, and Douban group is like Reddit subs.
+
+This crawler could collect the titles of posts in Douban groups, and generate wordcloud pictures. 
+
+The main file is douCrawler.py, the main packages used are flask and jieba.
+
+
+*SissiDance is my another account so this repository was originally created by me when I was chasing my bachelor's degree.
